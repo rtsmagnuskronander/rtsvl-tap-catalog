@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-  name: tap-gui
+  name: tap-gui-system
   description: Tanzu Application Platform GUI System
   annotations:
     'backstage.io/techdocs-ref': dir:.
